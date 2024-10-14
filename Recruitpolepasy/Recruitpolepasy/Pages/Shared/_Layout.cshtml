@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Krocent</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <style>
+        /* Pastel color scheme */
+        body {
+            background-color: #f7f4ea; /* Pastel cream */
+            color: #4b4b4b;
+        }
+
+        /* Navbar styling */
+        .navbar {
+            background-color: #a3c9c9; /* Soft pastel blue */
+        }
+
+            .navbar a {
+                color: #ffffff;
+                font-weight: bold;
+            }
+
+                .navbar a:hover {
+                    color: #f7f4ea;
+                }
+
+        /* Footer styling */
+        footer {
+            background-color: #ffe4e1; /* Pastel pink */
+            padding: 20px;
+            color: #4b4b4b;
+            text-align: center;
+            font-size: 0.9rem;
+        }
+
+        /* Buttons styling */
+        .btn-primary {
+            background-color: #ffb6c1; /* Light pastel pink */
+            border-color: #ffb6c1;
+        }
+
+            .btn-primary:hover {
+                background-color: #ffa07a; /* Pastel coral */
+                border-color: #ffa07a;
+            }
+
+        /* Header styling */
+        header {
+            background-color: #e0bbe4; /* Light pastel lavender */
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        /* Container customization */
+        .container {
+            margin-top: 30px;
+        }
+
+        /* Customize h1, h2 headings */
+        h1, h2 {
+            color: #4b4b4b;
+        }
+
+        /* Card styling */
+        .card {
+            background-color: #fff5e6; /* Soft pastel orange */
+            border: none;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+
+        .card-title {
+            color: #4b4b4b;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Krocent</h1>
+        <p>Empowering Careers</p>
+    </header>
+
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container">
+            <a class="navbar-brand" href="/">Krocent</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Candidates">Candidates</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Companies">Companies</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Industries">Industries</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/JobTitles">Job Titles</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        @RenderBody()
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Krocent. All rights reserved.</p>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

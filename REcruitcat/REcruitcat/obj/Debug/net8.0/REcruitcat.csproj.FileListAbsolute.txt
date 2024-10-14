@@ -1,0 +1,8 @@
+C:\Users\polepasy\source\repos\REcruitcat\REcruitcat\obj\Debug\net8.0\REcruitcat.csproj.AssemblyReference.cache
+C:\Users\polepasy\source\repos\REcruitcat\REcruitcat\obj\Debug\net8.0\REcruitcat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polepasy\source\repos\REcruitcat\REcruitcat\obj\Debug\net8.0\REcruitcat.AssemblyInfoInputs.cache
+C:\Users\polepasy\source\repos\REcruitcat\REcruitcat\obj\Debug\net8.0\REcruitcat.AssemblyInfo.cs
+C:\Users\polepasy\source\repos\REcruitcat\REcruitcat\obj\Debug\net8.0\REcruitcat.csproj.CoreCompileInputs.cache
+C:\Users\polepasy\source\repos\REcruitcat\REcruitcat\obj\Debug\net8.0\REcruitcat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\polepasy\source\repos\REcruitcat\REcruitcat\obj\Debug\net8.0\REcruitcat.RazorAssemblyInfo.cache
+C:\Users\polepasy\source\repos\REcruitcat\REcruitcat\obj\Debug\net8.0\REcruitcat.RazorAssemblyInfo.cs

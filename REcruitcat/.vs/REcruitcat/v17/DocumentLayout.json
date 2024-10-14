@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\polepasy\\source\\repos\\REcruitcat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEFD3D-A519-4388-8BFA-702A6DCC0DC1}|REcruitcat\\REcruitcat.csproj|c:\\users\\polepasy\\source\\repos\\recruitcat\\recruitcat\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FFEFD3D-A519-4388-8BFA-702A6DCC0DC1}|REcruitcat\\REcruitcat.csproj|solutionrelative:recruitcat\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEFD3D-A519-4388-8BFA-702A6DCC0DC1}|REcruitcat\\REcruitcat.csproj|c:\\users\\polepasy\\source\\repos\\recruitcat\\recruitcat\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4FFEFD3D-A519-4388-8BFA-702A6DCC0DC1}|REcruitcat\\REcruitcat.csproj|solutionrelative:recruitcat\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEFD3D-A519-4388-8BFA-702A6DCC0DC1}|REcruitcat\\REcruitcat.csproj|c:\\users\\polepasy\\source\\repos\\recruitcat\\recruitcat\\data\\recruitcatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEFD3D-A519-4388-8BFA-702A6DCC0DC1}|REcruitcat\\REcruitcat.csproj|solutionrelative:recruitcat\\data\\recruitcatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFEFD3D-A519-4388-8BFA-702A6DCC0DC1}|REcruitcat\\REcruitcat.csproj|c:\\users\\polepasy\\source\\repos\\recruitcat\\recruitcat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFEFD3D-A519-4388-8BFA-702A6DCC0DC1}|REcruitcat\\REcruitcat.csproj|solutionrelative:recruitcat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\polepasy\\source\\repos\\REcruitcat\\REcruitcat\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "REcruitcat\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\polepasy\\source\\repos\\REcruitcat\\REcruitcat\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "REcruitcat\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-11T02:33:21.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "REcruitcatContext.cs",
+              "DocumentMoniker": "C:\\Users\\polepasy\\source\\repos\\REcruitcat\\REcruitcat\\Data\\REcruitcatContext.cs",
+              "RelativeDocumentMoniker": "REcruitcat\\Data\\REcruitcatContext.cs",
+              "ToolTip": "C:\\Users\\polepasy\\source\\repos\\REcruitcat\\REcruitcat\\Data\\REcruitcatContext.cs",
+              "RelativeToolTip": "REcruitcat\\Data\\REcruitcatContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:26:52.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\polepasy\\source\\repos\\REcruitcat\\REcruitcat\\Program.cs",
+              "RelativeDocumentMoniker": "REcruitcat\\Program.cs",
+              "ToolTip": "C:\\Users\\polepasy\\source\\repos\\REcruitcat\\REcruitcat\\Program.cs",
+              "RelativeToolTip": "REcruitcat\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:26:52.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\polepasy\\source\\repos\\REcruitcat\\REcruitcat\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "REcruitcat\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\polepasy\\source\\repos\\REcruitcat\\REcruitcat\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "REcruitcat\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAAHoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T02:09:37.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

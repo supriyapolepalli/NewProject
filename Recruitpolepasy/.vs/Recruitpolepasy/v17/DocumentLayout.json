@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\polepasy\\source\\repos\\Recruitpolepasy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42F00D02-4998-49E6-A7AC-39E672EC7145}|Recruitpolepasy\\Recruitpolepasy.csproj|c:\\users\\polepasy\\source\\repos\\recruitpolepasy\\recruitpolepasy\\pages\\models\\candidate\\candiates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F00D02-4998-49E6-A7AC-39E672EC7145}|Recruitpolepasy\\Recruitpolepasy.csproj|solutionrelative:recruitpolepasy\\pages\\models\\candidate\\candiates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F00D02-4998-49E6-A7AC-39E672EC7145}|Recruitpolepasy\\Recruitpolepasy.csproj|c:\\users\\polepasy\\source\\repos\\recruitpolepasy\\recruitpolepasy\\pages\\models\\industry\\industries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F00D02-4998-49E6-A7AC-39E672EC7145}|Recruitpolepasy\\Recruitpolepasy.csproj|solutionrelative:recruitpolepasy\\pages\\models\\industry\\industries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F00D02-4998-49E6-A7AC-39E672EC7145}|Recruitpolepasy\\Recruitpolepasy.csproj|c:\\users\\polepasy\\source\\repos\\recruitpolepasy\\recruitpolepasy\\pages\\models\\jobtitle\\jobtitles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F00D02-4998-49E6-A7AC-39E672EC7145}|Recruitpolepasy\\Recruitpolepasy.csproj|solutionrelative:recruitpolepasy\\pages\\models\\jobtitle\\jobtitles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F00D02-4998-49E6-A7AC-39E672EC7145}|Recruitpolepasy\\Recruitpolepasy.csproj|c:\\users\\polepasy\\source\\repos\\recruitpolepasy\\recruitpolepasy\\pages\\models\\company\\companies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F00D02-4998-49E6-A7AC-39E672EC7145}|Recruitpolepasy\\Recruitpolepasy.csproj|solutionrelative:recruitpolepasy\\pages\\models\\company\\companies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F00D02-4998-49E6-A7AC-39E672EC7145}|Recruitpolepasy\\Recruitpolepasy.csproj|c:\\users\\polepasy\\source\\repos\\recruitpolepasy\\recruitpolepasy\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42F00D02-4998-49E6-A7AC-39E672EC7145}|Recruitpolepasy\\Recruitpolepasy.csproj|solutionrelative:recruitpolepasy\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Companies.cs",
+              "DocumentMoniker": "C:\\Users\\polepasy\\source\\repos\\Recruitpolepasy\\Recruitpolepasy\\Pages\\Models\\Company\\Companies.cs",
+              "RelativeDocumentMoniker": "Recruitpolepasy\\Pages\\Models\\Company\\Companies.cs",
+              "ToolTip": "C:\\Users\\polepasy\\source\\repos\\Recruitpolepasy\\Recruitpolepasy\\Pages\\Models\\Company\\Companies.cs",
+              "RelativeToolTip": "Recruitpolepasy\\Pages\\Models\\Company\\Companies.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwBkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:14:37.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Industries.cs",
+              "DocumentMoniker": "C:\\Users\\polepasy\\source\\repos\\Recruitpolepasy\\Recruitpolepasy\\Pages\\Models\\Industry\\Industries.cs",
+              "RelativeDocumentMoniker": "Recruitpolepasy\\Pages\\Models\\Industry\\Industries.cs",
+              "ToolTip": "C:\\Users\\polepasy\\source\\repos\\Recruitpolepasy\\Recruitpolepasy\\Pages\\Models\\Industry\\Industries.cs",
+              "RelativeToolTip": "Recruitpolepasy\\Pages\\Models\\Industry\\Industries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:14:20.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobTitles.cs",
+              "DocumentMoniker": "C:\\Users\\polepasy\\source\\repos\\Recruitpolepasy\\Recruitpolepasy\\Pages\\Models\\JobTitle\\JobTitles.cs",
+              "RelativeDocumentMoniker": "Recruitpolepasy\\Pages\\Models\\JobTitle\\JobTitles.cs",
+              "ToolTip": "C:\\Users\\polepasy\\source\\repos\\Recruitpolepasy\\Recruitpolepasy\\Pages\\Models\\JobTitle\\JobTitles.cs",
+              "RelativeToolTip": "Recruitpolepasy\\Pages\\Models\\JobTitle\\JobTitles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:14:11.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Candiates.cs",
+              "DocumentMoniker": "C:\\Users\\polepasy\\source\\repos\\Recruitpolepasy\\Recruitpolepasy\\Pages\\Models\\Candidate\\Candiates.cs",
+              "RelativeDocumentMoniker": "Recruitpolepasy\\Pages\\Models\\Candidate\\Candiates.cs",
+              "ToolTip": "C:\\Users\\polepasy\\source\\repos\\Recruitpolepasy\\Recruitpolepasy\\Pages\\Models\\Candidate\\Candiates.cs",
+              "RelativeToolTip": "Recruitpolepasy\\Pages\\Models\\Candidate\\Candiates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:13:54.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\polepasy\\source\\repos\\Recruitpolepasy\\Recruitpolepasy\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Recruitpolepasy\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\polepasy\\source\\repos\\Recruitpolepasy\\Recruitpolepasy\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Recruitpolepasy\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAiwHoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T03:13:09.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
